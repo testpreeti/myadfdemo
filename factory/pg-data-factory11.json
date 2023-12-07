@@ -1,0 +1,9 @@
+{
+	"name": "pg-data-factory11",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c6aa4e4f-b272-41ff-b8b3-3d71b268f88f",
+		"tenantId": "a8a0e83c-fbd2-4018-8dd2-253c7442359c"
+	}
+}
